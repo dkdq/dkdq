@@ -2,7 +2,7 @@
 
 ## Information Technology Projects 💻:
 
-* Microsoft Azure
+* Microsoft Windows Server and Azure
   * [On-premises Active Directory and Client PC Deployed in the Cloud](https://github.com/dkdq/Active-Directory)
   * [Network File Permissions and Shares](https://github.com/dkdq/Network-File-Permission-Shares)
   * [Implementation of How DNS Works](https://github.com/dkdq/DNS-Server)
